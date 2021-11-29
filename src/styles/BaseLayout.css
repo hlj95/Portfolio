@@ -1,0 +1,10 @@
+body{
+    background-image: url("https://s.hdnux.com/photos/67/52/03/14590149/7/rawImage.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}

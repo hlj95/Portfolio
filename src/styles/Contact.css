@@ -1,0 +1,28 @@
+.contactDiv div {
+    display: flex;
+    flex-direction: row;
+}
+
+.contactDiv {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    color: aliceblue;
+    backdrop-filter: blur(7px);
+    -webkit-backdrop-filter: blur(7px);
+    background-color: rgba(0, 0, 0, 0.5);
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    width: fit-content;
+    color: rgb(255, 255, 255);
+    align-items: center;
+    margin: auto;
+    height: 50%;
+    padding: 3%;
+    border-radius: 7px;
+}
+
+.logo {
+    color: aliceblue;
+}

@@ -1,0 +1,11 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    font-size: large;
+
+}
+.links img {
+    width: 15%;
+    height: 15%;
+    
+}
