@@ -58,7 +58,7 @@ function Projects() {
             <br></br>
 
             <div className="project4">
-                <h4>Portfolio App [Grooup Project]</h4>
+                <h4>Portfolio App [Group Project]</h4>
                 <iframe  src="https://www.youtube.com/embed/Eguz8P7OnP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                 </iframe>
             
