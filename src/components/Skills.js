@@ -9,8 +9,7 @@ function Skills() {
             <h1>Skills</h1>
             <div className="skillsInfo">
                 
-                <p>These are the majority of programming languages I gained experience in while attending 
-                    DigitalCrafts. I am currently learning how to create smart contracts and plan on doing a project
+                <p>These are the majority of programming languages I gained experience in. I am currently teaching myself how to create smart contracts and plan on doing a project
                     with blockchains.
                 </p>
             </div>
@@ -75,17 +74,17 @@ function Skills() {
                     </a>
                     <h5>PostgreSQL</h5>
                 </div>
-                <div className="socket">
-                    <a href="https://socket.io/docs/v4/" target="_blank" rel="noreferrer" >
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" alt="socket" />
+                <div>
+                    <a href="https://docs.soliditylang.org/en/v0.8.13/" target="_blank" rel="noreferrer" >
+                    <img src="https://img.icons8.com/ios/100/000000/solidity.png" alt="soidity"/>                    
                     </a>
-                    <h5>Socket.IO</h5>
+                    <h5>Solidity</h5>
                 </div>
                 <div>
-                    <a href="https://sequelize.org/master/" target="_blank" rel="noreferrer" >
-
+                    <a href="https://trufflesuite.com/docs/truffle/" target="_blank" rel="noreferrer" >
+                    <img src="https://trufflesuite.com/assets/logo.png" style={{width:96, height:96}} alt="truffle"/>
                     </a>
-
+                    <h5>Truffle</h5>
                 </div>
                 <div>
 

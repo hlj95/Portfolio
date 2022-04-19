@@ -23,12 +23,8 @@
     align-items: center;
     margin-top: 5%;
     border-radius: 7px;
+    width: 75%;
 
-}
-
-.socket img{
-    width: 96px;
-    height: 96px
 }
 
 .skillsInfo {
@@ -41,4 +37,5 @@
     font-size: large;
     font-weight: 600;
     padding: 2%;
+    width:75%;
 }

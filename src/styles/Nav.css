@@ -1,11 +1,10 @@
 .navbar {
     display: flex;
-    flex-direction: row;
-    font-size: large;
+    flex-direction: column;
+    font-size: x-large;
+    color: black;
 
 }
-.links img {
-    width: 15%;
-    height: 15%;
-    
+h2 {
+    color:black;
 }

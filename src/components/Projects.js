@@ -9,9 +9,8 @@ function Projects() {
             <br></br>
             <div className="project1">
                     <h4>Weather App [Group Project]</h4>
-                    <iframe  src="https://www.youtube.com/embed/VtGHZadmNAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                    <iframe  src="https://www.youtube.com/embed/j-ulfYywRbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                     </iframe>
-               
                 <br></br>
                 
                 <p><h5>July 2021</h5> The "WeatherApp" was the first project I contributed in while attending 
