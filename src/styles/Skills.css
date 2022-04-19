@@ -39,3 +39,17 @@
     padding: 2%;
     width:75%;
 }
+
+
+
+@media (min-width:20px) and (max-width:480px) {
+    .skillsDiv{
+        width: 100%;
+    }
+}
+
+@media (min-width:481px) and (max-width:720px) {
+    .skillsDiv{
+        width: 100%;
+    }
+}

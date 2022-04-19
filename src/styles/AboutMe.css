@@ -47,11 +47,23 @@
 }
 
 @media (min-width:20px) and (max-width:480px) {
+    .about_me{
+        width: 100%;
+    }
+    .aboutMe{
+        width: 100%;
+    }
     .pic{
         width: 80%;
     }
 }
 @media (min-width:481px) and (max-width:720px) {
+    .about_me{
+        width: 100%;
+    }
+    .aboutMe{
+        width: 100%;
+    }
     .pic{
         width: 70%;
     }
