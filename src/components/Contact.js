@@ -8,7 +8,7 @@ function Contact() {
         <div className="contactDiv">
             <h2>Contact</h2>
             <br></br>
-            <div><a href="https://docs.google.com/document/d/1cWH1NRWQkBmAEdTQKzhgcT2ZLpvrkfDx_bnEniOS4Yk/edit?usp=sharing" target="_blank" rel="noreferrer" ><button id="button">View Resume</button></a></div>
+            <div><a href="https://docs.google.com/document/d/1HABvFbo3acQqKrvqwtbbTZ3J3JnDRpTu7eMVwxnHCC0/edit?usp=sharing" target="_blank" rel="noreferrer" ><button id="button">View Resume</button></a></div>
             <br></br>
         
             <div>
