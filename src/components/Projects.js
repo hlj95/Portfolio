@@ -8,7 +8,7 @@ function Projects() {
         <div className="projectsDiv">
             <br></br>
             <div className="project1">
-                    <h4>Weather App [Group Project]</h4>
+                    <h4>Weather App</h4>
                     <iframe  src="https://www.youtube.com/embed/j-ulfYywRbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                     </iframe>
                 <br></br>
@@ -24,7 +24,7 @@ function Projects() {
             </div>
           
             <div className="project2">
-                    <h4>American Travel Blogs [Group Project]</h4>
+                    <h4>American Travel Blogs </h4>
                     <iframe src="https://www.youtube.com/embed/ZvxNwI0aVN8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                     </iframe>
               
@@ -39,7 +39,7 @@ function Projects() {
             </div>
           
             <div className="project3">
-                    <h4>Goal App [Solo Project]</h4>
+                    <h4>Goal App </h4>
                     <iframe  src="https://www.youtube.com/embed/1Bq0BCqissY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                     </iframe>
               
@@ -57,7 +57,7 @@ function Projects() {
             <br></br>
 
             <div className="project4">
-                <h4>Portfolio App [Group Project]</h4>
+                <h4>Portfolio App </h4>
                 <iframe  src="https://www.youtube.com/embed/Eguz8P7OnP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
                 </iframe>
             

@@ -7,22 +7,26 @@
     display: flex;
     flex-direction: column;
     align-content: center;
-    color: aliceblue;
+    
     backdrop-filter: blur(7px);
     -webkit-backdrop-filter: blur(7px);
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(255, 255, 255, 0.096);
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
-    width: fit-content;
-    color: rgb(255, 255, 255);
+    color:black;
     align-items: center;
-    margin: auto;
+    margin:auto;
     height: 50%;
     padding: 3%;
     border-radius: 7px;
+    width: fit-content;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1.5em;
+    border-style:outset;
+    border-width: .1em;
 }
 
-.logo {
-    color: aliceblue;
+#message {
+    height: 7em;
 }

@@ -16,8 +16,8 @@ function Navigation() {
                     <div className="logo"><h2>Heriberto Lopez Jr.</h2></div>
                     <Nav>
                         <Nav.Link href="/">Home</Nav.Link>
-                        <Nav.Link href="/projects">Projects</Nav.Link>
-                        <Nav.Link href="/skills">Skills</Nav.Link>
+                        <Nav.Link href="/projects">Work</Nav.Link>
+                        <Nav.Link href="/skills">Experience</Nav.Link>
                         <Nav.Link href="/contact">Contact</Nav.Link>
                     </Nav>
             </Navbar>

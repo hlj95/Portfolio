@@ -6,7 +6,7 @@ import '../styles/Skills.css'
 function Skills() {
     return (
         <div className="skillsDiv">
-            <h1>Skills</h1>
+            <h1>Experience</h1>
             <div className="skillsInfo">
                 
                 <p>These are the majority of programming languages I gained experience in. I am currently teaching myself how to create smart contracts and plan on doing a project

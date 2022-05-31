@@ -4,6 +4,7 @@ import AboutMe from "./AboutMe"
 function Home() {
     return(
         <div className="homeDiv">
+            
             <AboutMe />
         </div>
     );
