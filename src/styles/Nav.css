@@ -1,10 +1,7 @@
-.navbar {
-    display: flex;
-    flex-direction: column;
-    font-size: x-large;
-    color: black;
 
-}
-h2 {
-    color:black;
+.navbar {
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    margin: auto;
 }

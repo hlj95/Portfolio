@@ -12,6 +12,7 @@ import Home from './components/Home.js';
 import Projects from './components/Projects';
 import Skills from './components/Skills';
 import Contact from './components/Contact';
+import 'mdb-react-ui-kit/dist/css/mdb.min.css';
 
 
 

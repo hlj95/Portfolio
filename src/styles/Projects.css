@@ -4,8 +4,9 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    justify-content: space-evenly;
-    height: 30em;
+    justify-content: center;
+    height: 27em;
+    padding: 1em;
 
 }
 .projectsDiv{
@@ -126,7 +127,7 @@ iframe {
     }
 
 }
-@media (min-width:481px) and (max-width:720px) {
+@media (min-width:481px) and (max-width:780px) {
     .projectsDiv {
         display: flex;
         flex-direction: column;
