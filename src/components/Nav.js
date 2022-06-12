@@ -10,7 +10,7 @@ function Navigation() {
     return (
         <div className="navbar">
             <Navbar>
-                    <div className="logo">Heriberto Lopez Jr.</div>
+                    <div className="logo">&nbsp;Heriberto Lopez Jr.</div>
                     <Nav>
                         <Nav.Link href="/">&nbsp;Home</Nav.Link>
                         <Nav.Link href="/projects">&nbsp;Work</Nav.Link>
