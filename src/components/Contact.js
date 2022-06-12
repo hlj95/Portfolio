@@ -48,7 +48,7 @@ function Contact() {
                     <label for="email"></label>
                     <MDBInput type="email" id="email" name="email" label="Email" required="" />
                     <br></br>
-                    <label for="message">/</label>
+                    <label for="message">Message</label>
                     <br></br>
                     <MDBTextArea
                         id="message"
