@@ -27,11 +27,11 @@ function Contact() {
         
             <div>
                 <div>
-                    <a href="https://github.com/hlj95" target="_blank" rel="noreferrer" ><img src="https://img.icons8.com/ios/50/000000/github--v2.png" alt="github" /></a>
+                    <a href="https://github.com/hljhtx" target="_blank" rel="noreferrer" ><img src="https://img.icons8.com/ios/50/000000/github--v2.png" alt="github" /></a>
                     
                 </div>
                 <div>
-                    <a href="https://www.linkedin.com/in/hlj95/" target="_blank" rel="noreferrer" ><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin" /></a>
+                    <a href="https://www.linkedin.com/in/hljhtx/" target="_blank" rel="noreferrer" ><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin" /></a>
                 
                 </div>
             </div>
