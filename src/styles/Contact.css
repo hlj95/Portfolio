@@ -3,17 +3,17 @@
     flex-direction: row;
 }
 
-.contactDiv {
+.contactDiv  {
     display: flex;
     flex-direction: column;
     align-content: center;
     backdrop-filter: blur(7px);
-    -webkit-backdrop-filter: blur(7px);
-    background-color: rgba(255, 255, 255, 0.264);
+    -webkit-backdrop-filter: blur(8px);
+    background-color: rgba(0, 0, 0, 0.4);
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
-    color:black;
+    color:white;
     align-items: center;
     margin:auto;
     height: 50%;
@@ -22,8 +22,7 @@
     width: fit-content;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 1.5em;
-    border-style:outset;
-    border-width: .1em;
+
 }
 
 #message {

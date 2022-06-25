@@ -1,7 +1,10 @@
 
 .navbar {
-    color: white;
+    color:white;
     font-weight: bold;
-    width: fit-content;
+    width: 100%;
     font-size:medium;
 }
+ .logo {
+    width: 3em;
+ }

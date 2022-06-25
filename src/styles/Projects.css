@@ -34,8 +34,7 @@
     margin-top: 3%;
     border-radius: 7px;
     color: black;
-    border-style:outset;
-    border-width: .1em;
+
 }
 
 
@@ -60,8 +59,7 @@ iframe {
     margin: auto;
     margin-top: 3%;
     border-radius: 7px;
-    border-style:outset;
-    border-width: .1em;
+
 }
 
 
@@ -82,8 +80,7 @@ iframe {
     margin: auto;
     margin-top: 3%;
     border-radius: 7px;
-    border-style:outset;
-    border-width: .1em;
+
 }
 
 
@@ -103,8 +100,7 @@ iframe {
     margin: auto;
     margin-top: 3%;
     border-radius: 7px;
-    border-style:outset;
-    border-width: .1em;
+
 }
 
 @media (min-width: 20px) and (max-width:480px) {

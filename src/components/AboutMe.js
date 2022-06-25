@@ -4,27 +4,22 @@ import ProfilePicture from '../images/profile.jpg'
 import Contact from './Contact'
 import {
     MDBCard,
-    MDBCardBody,
-    MDBInput,
-    MDBCardFooter,
-    MDBBtn,
-    MDBIcon,
-    MDBTextArea
+    MDBCardBody
 } from "mdb-react-ui-kit";
 
 function AboutMe() {
     return (
         <div className="about_me">
-            <Contact />
+            
             
                 <MDBCard className="aboutMe">
                 
-                    <h2>About Me</h2>
+                    <h2>Hello, I'm Eri!</h2>
+                    <h5>Heriberto Lopez Jr.</h5>
                     <MDBCardBody>   
-                    <p> I'm a software developer learning daily to stay up-to-date with current and future technology.
+                    <p> I'm a Full-Stack Developer based in Houston, Texas staying up-to-date with current and future technology.
                         Formerly a manufacturing consultant for the Oil & Gas sector for several companies in the Greater Houston area.
-                        I chose to manuever over to the tech industry to pursue a career as a
-                        software engineer through Digital Crafts' Immersive Full-Stack Coding Bootcamp and self-teaching as well.</p>
+                    </p>
 
                     </MDBCardBody>
 
@@ -33,7 +28,7 @@ function AboutMe() {
                     </div>
                     </MDBCard>
                 <br></br>
-           
+                <Contact />
 
 
         </div>
